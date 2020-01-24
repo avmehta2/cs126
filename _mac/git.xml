@@ -1,0 +1,5 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="https://github.com/CS126SP20/devious-debugging-avmehta2.git" />
+  </component>
+</application>
